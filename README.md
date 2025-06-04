@@ -26,8 +26,6 @@ Mi principal objetivo es aprender lo máximo posible y desarrollar webs increibl
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCoronado-dev&hide_progress=true)
 
-## Contacto
-
 ## 🔗 Links
 
 [![🌐 Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
