@@ -24,7 +24,7 @@ Mi principal objetivo es aprender lo máximo posible y desarrollar webs increibl
 
 ![Luis Coronado's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisCoronado-dev&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCoronado-dev&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCoronado-dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Links
 
