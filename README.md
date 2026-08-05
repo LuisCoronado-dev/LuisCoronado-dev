@@ -62,7 +62,7 @@ precio cerrado por escrito antes de empezar.
 **Producto propio**
 
 - **Gastrofy** — Plataforma para restaurantes: reservas, carta y comunidad
-- **Kyvo CRM** — SaaS multi-tenant para clubes y asociaciones
+- **Kommyt CRM** — SaaS multi-tenant para clubes y asociaciones
 - **Agency OS** — Sistema operativo interno del estudio
 
 ---
