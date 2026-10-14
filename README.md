@@ -63,7 +63,6 @@ precio cerrado por escrito antes de empezar.
 
 - **Gastrofy** — Plataforma para restaurantes: reservas, carta y comunidad
 - **Kommyt CRM** — SaaS multi-tenant para clubes y asociaciones
-- **Agency OS** — Sistema operativo interno del estudio
 
 ---
 
